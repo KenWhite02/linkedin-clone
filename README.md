@@ -6,15 +6,17 @@ LinkedIn Clone
 
 ![linkedin1](https://user-images.githubusercontent.com/68158625/102877892-7e32c780-4458-11eb-90ab-1bbbec78e83b.png)
 
-## Libraries Used
+## Technologies Used
 
-Built with:
-React
-Redux
+This project was initialized using `React.`
+
+A `Redux` template was used in this project hence eased data management in the application.
+
+`Firebase` was also used as the backend of this project. It was used to set up User Authentication using Email and Password.
 
 ## Feature
 
-Full User Authentication using Firebase.
+Uses full user authentication.
 
 ## Installation
 
